@@ -54,3 +54,34 @@ p{
 .icon{
     margin-left: 20px;
 }
+/* Animation section */
+.animi-section{
+    display: flex;
+}
+.animation{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.animi-1{
+    height: 300px;
+    width: 250px;
+    margin: 15px;
+    border: 2px solid lightpink;
+    text-align: center;
+    border-radius: 25px;
+    transition: width 1s, height 1s;
+}
+.animi-1:hover{
+    width: 270px;
+    height: 325px;
+}
+.animi-2:hover{
+    background-color: lightsalmon;
+}
+.animi-2:hover{
+    background-color: lightskyblue;
+}
+.animi-3:hover{
+    background-color: mediumslateblue;
+}
