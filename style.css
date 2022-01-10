@@ -1,0 +1,56 @@
+/* List item */
+section{
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+.div-tag{
+    display: flex;
+    border: 1px solid lightgray;
+}
+/* Table */
+.ol-tag{
+    margin: 5px;
+    padding: 100px;
+    border-radius: 10px;
+    background-color: lightpink;
+}
+table{
+    border: 2px solid red;
+    padding: 10px;
+    width: 75%;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+.table-h1{
+    text-align: center;
+}
+td, th{
+    text-align: center;
+    border: 1px solid lightslategray;
+}
+th{
+    padding: 15px;
+}
+/* Semantic */
+p{
+    text-align: justify;
+}
+/* Youtueb,autoplay,icon */
+.youtube-1{
+    display: flex;
+    border: 1px solid black;
+    padding: 20px;
+}
+.youtube-autoplay{
+    margin-right: auto;
+    margin-left: auto;
+}
+.icon{
+    margin-left: 20px;
+}
